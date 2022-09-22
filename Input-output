@@ -4,3 +4,11 @@ Program:
 print('Hello World')
 Output:
 Hello World
+
+
+Question-2
+Hello World with tab
+Program:
+print('Hello World\tHello World')
+Output:
+Hello World     Hello World
